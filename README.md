@@ -1,4 +1,4 @@
-## Hi there, I´m Thiago Miguel 👋
+## Hi there, I´m Thiago Miguel 
 
 <div align="center">
   <a href="https://github.com/ThiagoMiguel7">
